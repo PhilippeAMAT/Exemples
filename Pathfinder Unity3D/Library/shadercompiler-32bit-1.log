@@ -1,0 +1,9 @@
+Base path: F:/Logiciels/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-32bit-1-322692
+Cmd: getPlatforms
+Unhandled exception: Readfile from pipe failed. GLE=Le canal de communication a été fermé.
+
+
+Quitting shader compiler process
+
+Crashed!
